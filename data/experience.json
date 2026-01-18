@@ -1,0 +1,14 @@
+{
+  "1": {
+    "from": { "month": "April", "year": "2021" },
+    "to": { "month": "August", "year": "2022" }
+  },
+  "2": {
+    "from": { "month": "August", "year": "2022" },
+    "to": { "month": "March", "year": "2024" }
+  },
+  "3": {
+    "from": { "month": "March", "year": "2024" },
+    "to": { "month": "January", "year": "2025" }
+  }
+}
