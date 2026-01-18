@@ -15,11 +15,13 @@ from a JSON file containing multiple experience entries.
 
 ## Project Structure
 
+```css
 experience-duration-calculator/
 ├── data/
 ├── src/
 ├── README.md
 ├── requirements.txt
+```
 
 ---
 
@@ -29,6 +31,7 @@ experience-duration-calculator/
 ```bash
 git clone <repo-url>
 cd experience-duration-calculator
+```
 
 ### 2. Run the program
 ```sh
